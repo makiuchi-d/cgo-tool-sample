@@ -1,6 +1,12 @@
 # cgo-tool-sample
 cgoツールによるコード生成のサンプル
 
+## cgoツールの実行コマンド
+
+```cmd
+go tool cgo main.go
+```
+
 ## 生成されるファイル
 
 - `_obj/`
